@@ -1,0 +1,20 @@
+:b mode co80;promode 132x43;call setenv.bat;b.bat -C132 -L43
+:norm mode co80
+:small promode 132x43
+:ls dir /ong /w /p
+:more type %1 | more
+:alias c:;cd\anarkey\aliases;cls
+:\ cd\;cls
+:shit if exist d:\util\helpme.bat helpme
+:s32 cls;cd\scummsrc.6\sputm.wat;cls
+:i32 cls;cd\scummsrc.6\imuse.32;cls
+:i cls;cd\scummsrc.6\imuse;cls
+:c mode co80;promode 132x43
+:src cls;cd\source;cls
+:sc cls;cd\sc;sc;promode 132x43
+:lands cls;cd\lands;lands;promode 132x43
+:intlist mode co80;intrlist;promode 132x43
+:dk mode co80;dk.exe;promode 132x43
+:flash mode co80;cd\flashtek;upshot;promode 132x43
+
+

@@ -1,0 +1,12 @@
+:scu c:;cd\monkey;cls
+:ifo c:;cd\monkey\info;cls
+:chr c:;cd\monkey\charsets;cls
+:art c:;cd\monkey\art.32;cls
+:roo c:;cd\monkey\rooms.32;cls
+:sfx c:;cd\monkey\sfx.meg;cls
+:lfl c:;cd\monkey\lfl_meg.kan;cls
+:lec c:;cd\monkey\japanese;cls
+:lan c:;cd\monkey\language.kan;cls
+:cos c:;cd\monkey\costumes.256;cls
+
+

@@ -1,0 +1,12 @@
+:scu c:;cd\i4sega;cls
+:ifo c:;cd\i4sega\info;cls
+:chr c:;cd\i4sega\charsets;cls
+:art c:;cd\i4sega\art.32;cls
+:roo c:;cd\i4sega\rooms.32;cls
+:sfx c:;cd\i4sega\sfx.meg;cls
+:lfl c:;cd\i4sega\lfl_meg.kan;cls
+:lec c:;cd\i4sega\japanese;cls
+:lan c:;cd\i4sega\language.kan;cls
+:cos c:;cd\i4sega\costumes.256;cls
+
+
