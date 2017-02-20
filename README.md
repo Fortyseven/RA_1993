@@ -2,23 +2,30 @@ In 1993, the game _Rebel Assault_ from LucasArts was released for MS-DOS on CD. 
 
 I'll be writing up more on this, but for now, here is the archive. It is kept here for historical preservation.
 
-* `ALIASES/CDON.BAT`
-* `ALIASES/DP_PREFS`
-* `ALIASES/ENV.BAT`
-* `ALIASES/FOO`
-* `ALIASES/GENERIC.BAT`
-* `ALIASES/I4MGENG.NRK`
-* `ALIASES/I4MGKAN.NRK`
-* `ALIASES/M1MGENG.NRK`
-* `ALIASES/M1MGKAN.NRK`
-* `ALIASES/MAIN.NRK`
-* `ALIASES/MSC6.BAT`
-* `ALIASES/MSC6.NRK`
-* `ALIASES/MSC7.BAT`
-* `ALIASES/SCUMMENV.BAT`
-* `ALIASES/SDK.BAT`
-* `ALIASES/SETENV.BAT`
-* `ALIASES/WATCOM.BAT`
+|Filename|My Best Guess|
+|--------|---|
+|`ALIASES/CDON.BAT`|Empty
+|`ALIASES/DP_PREFS`|Prefrences file for Deluxe Paint
+|`ALIASES/ENV.BAT`|Shows which environments are available (see also WATCOM.BAT, MSC7.BAT, and SCUMMENV.BAT; [missing INTEL.BAT, apparently])
+|`ALIASES/FOO`|Empty
+|`ALIASES/GENERIC.BAT`|Seems to be a template to base other environments off of
+|`ALIASES/MSC6.BAT`|Environment setup for Microsoft C 6.0
+|`ALIASES/MSC7.BAT`|Environment setup for Microsoft C/C++ V7.0
+|`ALIASES/SCUMMENV.BAT`|Environment setup for SCUMM Projects (includes Monkey 1 Sega (Eng/JP), Fate of Atlantis (Sega/French))
+|`ALIASES/SDK.BAT`|Environment setup for Microsoft Windows SDK V3.1
+|`ALIASES/SETENV.BAT`|Calls the current config batch file, or tries to call environ.bat if it exists
+|`ALIASES/WATCOM.BAT`|Environment setup for Watcom C/386  
+
+|Filename|My Best Guess|
+|--------|---|
+|`ALIASES/I4MGENG.NRK`|
+|`ALIASES/I4MGKAN.NRK`|
+|`ALIASES/M1MGENG.NRK`|
+|`ALIASES/M1MGKAN.NRK`|
+|`ALIASES/MSC6.NRK`|
+|`ALIASES/MAIN.NRK`|These seem to be DOS aliases used with a LOAD command. (See SDK.BAT for an example.)
+
+
 
 * `UTIL/2B.BAT`
 * `UTIL/CAMERA.COM`
