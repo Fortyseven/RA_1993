@@ -69,3 +69,11 @@ These seem to be DOS aliases used with a LOAD command. (See SDK.BAT for an examp
 |`UTIL/VGA1024.EXE`|`WARNING! You do not have a Paradise VGA card installed!`
 |`UTIL/X.BAT`|Older version of `NETON.BAT`?
 |`UTIL/X32FIX.EXE`|`FlashTek X-32 Fixup Utility` - Watcom util
+
+##Notable Tools
+###Deluxe Paint II Enhanced
+Barebones copies of Electronic Arts' famous pixel art application were present. Two versions, actually. Versions 2.1 and 2.3.
+
+<img src="http://i.imgur.com/G2YlHLu.jpg" width="49%"/>
+<img src="http://i.imgur.com/zqZWWbK.jpg" width="49%" align="right"/>
+
