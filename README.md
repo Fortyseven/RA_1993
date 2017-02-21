@@ -30,40 +30,42 @@ These seem to be DOS aliases used with a LOAD command. (See SDK.BAT for an examp
 |`ALIASES/MSC6.NRK`| Microsoft C 6.0?
 |`ALIASES/MAIN.NRK`| Generic aliases
 
+##The \UTIL Directory
 
-
-* `UTIL/2B.BAT`
-* `UTIL/CAMERA.COM`
-* `UTIL/DEVLOAD.COM`
-* `UTIL/DEVLOD.COM`
-* `UTIL/DIFF.EXE`
-* `UTIL/DK.EXE`
-* `UTIL/DOSVER.EXE`
-* `UTIL/DP.EXE`
-* `UTIL/DRVOFF.EXE`
-* `UTIL/DRVSET.EXE`
-* `UTIL/EDP.EXE`
-* `UTIL/FF.EXE`
-* `UTIL/HD.EXE`
-* `UTIL/HD2F.EXE`
-* `UTIL/INTRLIST.EXE`
-* `UTIL/LOCATE.EXE`	
-* `UTIL/LZEXE.EXE`	
-* `UTIL/MAKE.EXE`	
-* `UTIL/MOVE.BAT`
-* `UTIL/NETON.BAT`
-* `UTIL/NPRINT.EXE`
-* `UTIL/PKUNZIP.EXE`
-* `UTIL/PKZIP.EXE`
-* `UTIL/PROMODE.COM`
-* `UTIL/PROTOE.EXE`
-* `UTIL/PSH1A.OVL`
-* `UTIL/PSH2A.OVL`
-* `UTIL/REALIAS.BAT`
-* `UTIL/RENDIR.COM`
-* `UTIL/SMODE.EXE`
-* `UTIL/SWEEP.COM`
-* `UTIL/TOUCH.EXE`
-* `UTIL/VGA1024.EXE`
-* `UTIL/X.BAT`
-* `UTIL/X32FIX.EXE`
+|Filename|My Best Guess or Command Output|
+|--------|---|
+|`UTIL/2B.BAT`|Copies files to the B: drive
+|`UTIL/CAMERA.COM`|Electronic Arts Screen Capture Utility v1.9 (1988, 1989)
+|`UTIL/DEVLOAD.COM`|DEVLOAD v3.00 - Device Driver Loader (1990, 1991, Helix Software Company)
+|`UTIL/DEVLOD.COM`|`Device driver name required. Quitting program...`
+|`UTIL/DIFF.EXE`|File comparison utility
+|`UTIL/DK.EXE`|DK v3.7 - Internal LucasArts graphics tool (see more below)
+|`UTIL/DOSVER.EXE`|Allows you to force a different DOS version number
+|`UTIL/DP.EXE`|Deluxe Paint II Enhanced (v2.3, 1985, 1990)
+|`UTIL/DRVOFF.EXE`|`usage: drvoff [drive]`
+|`UTIL/DRVSET.EXE`|`usage: drvset [drive] <NET|PHYS|SUBST|JOIN|OFF>`
+|`UTIL/EDP.EXE`|
+|`UTIL/FF.EXE`|
+|`UTIL/HD.EXE`|
+|`UTIL/HD2F.EXE`|
+|`UTIL/INTRLIST.EXE`|
+|`UTIL/LOCATE.EXE`	
+|`UTIL/LZEXE.EXE`	
+|`UTIL/MAKE.EXE`	
+|`UTIL/MOVE.BAT`|
+|`UTIL/NETON.BAT`|
+|`UTIL/NPRINT.EXE`|
+|`UTIL/PKUNZIP.EXE`|
+|`UTIL/PKZIP.EXE`|
+|`UTIL/PROMODE.COM`|
+|`UTIL/PROTOE.EXE`|
+|`UTIL/PSH1A.OVL`|
+|`UTIL/PSH2A.OVL`|
+|`UTIL/REALIAS.BAT`|
+|`UTIL/RENDIR.COM`|
+|`UTIL/SMODE.EXE`|
+|`UTIL/SWEEP.COM`|
+|`UTIL/TOUCH.EXE`|
+|`UTIL/VGA1024.EXE`|
+|`UTIL/X.BAT`|
+|`UTIL/X32FIX.EXE`|
