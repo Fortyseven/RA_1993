@@ -74,13 +74,13 @@ These seem to be DOS aliases used with a LOAD command. (See SDK.BAT for an examp
 ###Deluxe Paint II Enhanced
 Barebones copies of Electronic Arts' famous pixel art application were present. Two versions, actually. Versions 2.1 and 2.3.
 
-<img src="http://i.imgur.com/G2YlHLu.jpg" width="50%" style="float:left"/>
-<img src="http://i.imgur.com/zqZWWbK.jpg" width="50%" style="float:right"/>
+<img src="http://i.imgur.com/G2YlHLu.jpg" width="49%" style="float:left"/>
+<img src="http://i.imgur.com/zqZWWbK.jpg" width="49%" style="float:right"/>
 <div style="clear:both"></div>
 
 ###DK.EXE
 This, from what I recall, is an in-house LucasArts image 'Swiss Army Knife' tool. Among it's powers: it could reduce the number of colors in an image, using dithering, or adapt an image to fit an existing palette.
 
-<img src="http://i.imgur.com/WpmUnd3.jpg" width="50%" style="float:left"/>
-<img src="http://i.imgur.com/QIrudo4.jpg" width="50%" style="float:right"/>
+<img src="http://i.imgur.com/WpmUnd3.jpg" width="49%" style="float:left"/>
+<img src="http://i.imgur.com/QIrudo4.jpg" width="49%" style="float:right"/>
 <div style="clear:both"></div>
