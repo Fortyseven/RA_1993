@@ -44,28 +44,28 @@ These seem to be DOS aliases used with a LOAD command. (See SDK.BAT for an examp
 |`UTIL/DP.EXE`|Deluxe Paint II Enhanced (v2.3, 1985, 1990)
 |`UTIL/DRVOFF.EXE`|`usage: drvoff [drive]`
 |`UTIL/DRVSET.EXE`|`usage: drvset [drive] <NET|PHYS|SUBST|JOIN|OFF>`
-|`UTIL/EDP.EXE`|
-|`UTIL/FF.EXE`|
-|`UTIL/HD.EXE`|
-|`UTIL/HD2F.EXE`|
-|`UTIL/INTRLIST.EXE`|
-|`UTIL/LOCATE.EXE`	
-|`UTIL/LZEXE.EXE`	
-|`UTIL/MAKE.EXE`	
-|`UTIL/MOVE.BAT`|
-|`UTIL/NETON.BAT`|
-|`UTIL/NPRINT.EXE`|
-|`UTIL/PKUNZIP.EXE`|
-|`UTIL/PKZIP.EXE`|
-|`UTIL/PROMODE.COM`|
-|`UTIL/PROTOE.EXE`|
-|`UTIL/PSH1A.OVL`|
-|`UTIL/PSH2A.OVL`|
-|`UTIL/REALIAS.BAT`|
-|`UTIL/RENDIR.COM`|
-|`UTIL/SMODE.EXE`|
-|`UTIL/SWEEP.COM`|
-|`UTIL/TOUCH.EXE`|
-|`UTIL/VGA1024.EXE`|
-|`UTIL/X.BAT`|
-|`UTIL/X32FIX.EXE`|
+|`UTIL/EDP.EXE`|Deluxe Paint II Enhanced (v2.1, 1985, 1989)
+|`UTIL/FF.EXE`|A basic GREP-like tool for searching for strings in files
+|`UTIL/HD.EXE`|Creates a hex dump of a file
+|`UTIL/HD2F.EXE`|`Not enough parameters... format is: hd2f infile outfile`
+|`UTIL/INTRLIST.EXE`|IntrList v1.02 by Window Book Technology - companion to UNDOCUMENTED DOS - an interactive list of DOS interrupts
+|`UTIL/LOCATE.EXE`|`LOCATE list files that match a search argument as follows...`
+|`UTIL/LZEXE.EXE`|LZEXE v0.91 (1989, Fabrice BELLARD) - compression tool
+|`UTIL/MAKE.EXE`|Microsoft Program Maintenance Utility v4.06 (It's bloody `make`, mate.)
+|`UTIL/MOVE.BAT`|Copies a file then deletes the original
+|`UTIL/NETON.BAT`|Loads some 10-NET drivers and connects to a user's network resource
+|`UTIL/NPRINT.EXE`|`Please specify a filename.`
+|`UTIL/PKUNZIP.EXE`|PKUNZIP v1.1 (03-15-90) - ZIP uncompress
+|`UTIL/PKZIP.EXE`|PKZIP v1.1 (03-15-90) - ZIP compression
+|`UTIL/PROMODE.COM`|`Diamond  <SpeedStar PRO> is not installed.`
+|`UTIL/PROTOE.EXE`|ANSI C, C++ prototype extractor v2.05 (Shareware, 1988, 1989, 1990, 1991 SOLUCORP)
+|`UTIL/PSH1A.OVL`|Overlay file
+|`UTIL/PSH2A.OVL`|Overlay file (PolyShell Utility Command Set, v1.3, 1986, 1988, Thompson Automation, Inc.)
+|`UTIL/REALIAS.BAT`|Loads alias file from `c:\anarkey\aliases\main.nrk` (See `\ALIASES\MAIN.NRK`)
+|`UTIL/RENDIR.COM`|Probably does what it says on the tin.
+|`UTIL/SMODE.EXE`|`[Carrera mode selection.  V1.4 (jja)] Copyright 1990, S3 Incorporated.`, `Usage: SMODE [<hex_mode>] [VGA|EGA|CGA|MDA|HERCULES] [Noclear] [P#]`
+|`UTIL/SWEEP.COM`|`(C) Copyright Charles Petzold, 1985`
+|`UTIL/TOUCH.EXE`|`Touch v.3.01 Copyright (C) OPUS Software, 1987-89` (It's bloody `touch`, mate.)
+|`UTIL/VGA1024.EXE`|`WARNING! You do not have a Paradise VGA card installed!`
+|`UTIL/X.BAT`|Older version of `NETON.BAT`?
+|`UTIL/X32FIX.EXE`|`FlashTek X-32 Fixup Utility` - Watcom util
