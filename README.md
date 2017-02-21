@@ -16,14 +16,16 @@ I'll be writing up more on this, but for now, here is the archive. It is kept he
 |`ALIASES/SETENV.BAT`|Calls the current config batch file, or tries to call environ.bat if it exists
 |`ALIASES/WATCOM.BAT`|Environment setup for Watcom C/386  
 
+These seem to be DOS aliases used with a LOAD command. (See SDK.BAT for an example.)
+
 |Filename|My Best Guess|
 |--------|---|
-|`ALIASES/I4MGENG.NRK`|
-|`ALIASES/I4MGKAN.NRK`|
-|`ALIASES/M1MGENG.NRK`|
-|`ALIASES/M1MGKAN.NRK`|
-|`ALIASES/MSC6.NRK`|
-|`ALIASES/MAIN.NRK`|These seem to be DOS aliases used with a LOAD command. (See SDK.BAT for an example.)
+|`ALIASES/I4MGENG.NRK`|Indiana Jones 4 and the Fate of Atlantis (Sega Mega CD, English)
+|`ALIASES/I4MGKAN.NRK`|Indiana Jones 4 and the Fate of Atlantis (Sega Mega CD, Japanese)
+|`ALIASES/M1MGENG.NRK`|Monkey Island 1 (Sega Mega CD, English)
+|`ALIASES/M1MGKAN.NRK`|Monkey Island 1 (Sega Mega CD, Japanese)
+|`ALIASES/MSC6.NRK`| Microsoft C 6.0?
+|`ALIASES/MAIN.NRK`| Generic aliases
 
 
 
