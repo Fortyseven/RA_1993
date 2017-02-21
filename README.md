@@ -7,7 +7,7 @@ I'll be writing up more on this, but for now, here is the archive. It is kept he
 |Filename|My Best Guess|
 |--------|---|
 |`ALIASES/CDON.BAT`|Empty
-|`ALIASES/DP_PREFS`|Prefrences file for Deluxe Paint
+|`ALIASES/DP_PREFS`|Preferences file for Deluxe Paint
 |`ALIASES/ENV.BAT`|Shows which environments are available (see also WATCOM.BAT, MSC7.BAT, and SCUMMENV.BAT; [missing INTEL.BAT, apparently])
 |`ALIASES/FOO`|Empty
 |`ALIASES/GENERIC.BAT`|Seems to be a template to base other environments off of
