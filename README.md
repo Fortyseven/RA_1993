@@ -2,7 +2,7 @@
 <img width="25%" align="right" src="http://i.imgur.com/wfamleY.jpg">In 1993, the game _Rebel Assault_ from LucasArts was released for MS-DOS on CD. It contained a handful of development content that wasn't intended to be shipped, including _Deluxe Paint II Enhanced_.
 
 I'll be writing up more on this, but for now, here is the archive. It is kept here for historical preservation.
-
+<div style="clear:both"></div>
 ##The \ALIASES Directory
 |Filename|My Best Guess|
 |--------|---|
