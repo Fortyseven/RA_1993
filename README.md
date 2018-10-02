@@ -1,9 +1,15 @@
-#An Unexpected Surprise<img width="25%" align="right" src="http://i.imgur.com/wfamleY.jpg">
+<img width="25%" align="right" src="http://i.imgur.com/wfamleY.jpg">
+
+# An Unexpected Surprise
+
 In 1993, the game _Rebel Assault_ (v1.2) from LucasArts was released for MS-DOS on CD. It contained a handful of development content that wasn't intended to be shipped, including _Deluxe Paint II Enhanced_.
 
 I'll be writing up more on this, but for now, here is the archive. It is kept here for historical preservation.
-<hr/>
-##The \ALIASES Directory
+
+----
+
+## The \ALIASES Directory
+
 |Filename|My Best Guess|
 |--------|---|
 |`ALIASES/CDON.BAT`|Empty
@@ -16,7 +22,7 @@ I'll be writing up more on this, but for now, here is the archive. It is kept he
 |`ALIASES/SCUMMENV.BAT`|Environment setup for SCUMM Projects (includes Monkey 1 Sega (Eng/JP), Fate of Atlantis (Sega/French))
 |`ALIASES/SDK.BAT`|Environment setup for Microsoft Windows SDK V3.1
 |`ALIASES/SETENV.BAT`|Calls the current config batch file, or tries to call environ.bat if it exists
-|`ALIASES/WATCOM.BAT`|Environment setup for Watcom C/386  
+|`ALIASES/WATCOM.BAT`|Environment setup for Watcom C/386
 
 These seem to be DOS aliases used with a LOAD command. (See SDK.BAT for an example.)
 
@@ -29,8 +35,9 @@ These seem to be DOS aliases used with a LOAD command. (See SDK.BAT for an examp
 |`ALIASES/MSC6.NRK`| Microsoft C 6.0?
 |`ALIASES/MAIN.NRK`| Generic aliases
 
-<hr/>
-##The \UTIL Directory
+----
+
+## The \UTIL Directory
 
 |Filename|My Best Guess or Command Output|
 |--------|---|
@@ -70,15 +77,15 @@ These seem to be DOS aliases used with a LOAD command. (See SDK.BAT for an examp
 |`UTIL/X.BAT`|Older version of `NETON.BAT`?
 |`UTIL/X32FIX.EXE`|`FlashTek X-32 Fixup Utility` - Watcom util
 
-##Notable Tools
-###Deluxe Paint II Enhanced
+## Notable Tools
+### Deluxe Paint II Enhanced
 Barebones copies of Electronic Arts' famous pixel art application were present. Two versions, actually. Versions 2.1 and 2.3.
 
 <img src="http://i.imgur.com/G2YlHLu.jpg" width="49%" style="float:left"/>
 <img src="http://i.imgur.com/zqZWWbK.jpg" width="49%" style="float:right"/>
 <div style="clear:both"></div>
 
-###DK.EXE
+### DK.EXE
 This, from what I recall, is an in-house LucasArts image 'Swiss Army Knife' tool. Among it's powers: it could reduce the number of colors in an image, using dithering, or adapt an image to fit an existing palette.
 
 <img src="http://i.imgur.com/WpmUnd3.jpg" width="49%" style="float:left"/>
