@@ -1,5 +1,6 @@
-# An Unexpected Surprise
 <img width="25%" align="right" src="http://i.imgur.com/wfamleY.jpg">
+
+# An Unexpected Surprise
 
 In 1993, the game _Rebel Assault_ (v1.2) from LucasArts was released for MS-DOS on CD. It contained a handful of development content that wasn't intended to be shipped, including _Deluxe Paint II Enhanced_.
 
@@ -32,7 +33,6 @@ These seem to be DOS aliases used with a LOAD command. (See SDK.BAT for an examp
 |`ALIASES/MSC6.NRK`| Microsoft C 6.0?
 |`ALIASES/MAIN.NRK`| Generic aliases
 
-<hr/>
 ## The \UTIL Directory
 
 |Filename|My Best Guess or Command Output|
