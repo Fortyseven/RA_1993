@@ -82,7 +82,7 @@ Barebones copies of Electronic Arts' famous pixel art application were present. 
 <div style="clear:both"></div>
 
 ### DK.EXE
-This, from what I recall, is an in-house LucasArts image 'Swiss Army Knife' tool. Among it's powers: it could reduce the number of colors in an image, using dithering, or adapt an image to fit an existing palette.
+This, from what I recall, is an in-house LucasArts image 'Swiss Army Knife' tool. Among its powers: it could reduce the number of colors in an image, using dithering, or adapt an image to fit an existing palette.
 
 <img src="http://i.imgur.com/WpmUnd3.jpg" width="49%" style="float:left"/>
 <img src="http://i.imgur.com/QIrudo4.jpg" width="49%" style="float:right"/>
